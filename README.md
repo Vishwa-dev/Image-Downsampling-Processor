@@ -3,9 +3,9 @@ Design and Implementation of RISC related processor using VERILOG HDL and XILINX
 
 
 ## compileme.py
-a little-higher level asm compiler (don't rely solely on this for error detection)
+A little-higher level asm compiler (don't rely solely on this for error detection)
 
-usage:
+Usage:
 
 python compileme.py <input file name(required)> <output file names(optional)>
 
